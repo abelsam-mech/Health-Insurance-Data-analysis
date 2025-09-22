@@ -34,7 +34,4 @@ The dataset includes records with attributes such as:
 - **Gender** → No major difference in charges between males and females.  
 - **Region** → Slight variation, but not strongly significant.  
 
----
-
-## 📂 Repository Structure
 
